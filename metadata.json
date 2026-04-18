@@ -1,1 +1,15 @@
-[]
+[
+    {
+        "id": "BFAiZ3px7Yi06tuByv4wBb1bjAsUiGnw",
+        "plugin": "open-tab-settings",
+        "language": "zh-cn",
+        "version": "2.0.0",
+        "supported_versions": "2.0.0",
+        "title": "Open Tab Settings",
+        "description": "汉化的内容包括插件名称与描述、设置页文案、右键菜单项、命令面板命令名、通知提示，以及一个可能弹出的错误提示",
+        "hash": "0f16dfe80f16dfe80f16dfe80f16dfe8",
+        "created_at": "2026-04-18T07:46:40.774Z",
+        "updated_at": "2026-04-18T07:46:40.774Z",
+        "type": "plugin"
+    }
+]
